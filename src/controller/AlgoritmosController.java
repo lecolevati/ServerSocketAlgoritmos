@@ -1,6 +1,6 @@
 package controller;
 
-public class HelloWorldController {
+public class AlgoritmosController {
 
 	public String SendHello(String entrada){
 		return ("Hello "+entrada);
